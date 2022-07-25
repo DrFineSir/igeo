@@ -1,4 +1,8 @@
-iGeo Desktop Client...
+<h1 align="center">iGeo</h1>
 
-Report bugs in Issues
+###
 
+<h3 align="left">https://iGeo.app</h3>
+Report Bugs in Issues
+
+###
