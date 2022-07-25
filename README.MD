@@ -1,4 +1,4 @@
-iGeo Desktop Client..
+iGeo Desktop Client...
 
 Report bugs in Issues
 
